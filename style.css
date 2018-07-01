@@ -1,0 +1,8 @@
+html{
+    background-color: #333;
+}
+
+.icon-remove,
+.icon-check{
+    display: none;
+}
